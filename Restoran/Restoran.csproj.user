@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAdisyonGoruntule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormGarson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormKategoriDuzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormKategoriEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMasaDuzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMasaEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMudur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMutfak.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormPersonelDuzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormPersonelEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSifremiUnuttum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormUrunDuzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormUrunEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SiparisForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
